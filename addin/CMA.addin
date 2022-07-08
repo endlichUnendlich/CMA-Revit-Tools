@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>CMA ToolBox</Name>
+		<Assembly>CMA.dll</Assembly>
+		<AddInId>AFFB9FCA-68E6-4B53-8FBE-9C0109721E7F</AddInId>
+		<FullClassName>CMA.Main</FullClassName>
+		<VendorId>Christian Margarit</VendorId>
+		<Publisher>Christian Margarit</Publisher>
+		<VendorDescription>cma.immo@mm2208.de</VendorDescription>
+	</AddIn>
+</RevitAddIns>
